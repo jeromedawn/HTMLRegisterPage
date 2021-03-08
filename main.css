@@ -1,0 +1,22 @@
+body{
+    background-color:lightskyblue;
+}
+form{   
+    background-color: white;
+    text-align: center;
+    margin: 0px 400px 150px 400px;
+    font-family: "arial";
+
+    
+}
+button{
+    background-color:#0073E6;
+    color: white;
+    font-family: "arial";
+    border: none;
+}
+nav{
+    text-align: right;
+    background-color: white;
+    height: 2cm;
+}
